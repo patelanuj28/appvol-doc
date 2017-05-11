@@ -1,7 +1,7 @@
 Chart Demo
 ==========
 
-Something
+Something related to testing
 
 
 .. graphviz::
