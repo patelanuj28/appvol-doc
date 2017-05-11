@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, Anuj Patel
+# This file is distributed under the same license as the App Volumes package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: App Volumes 2.12.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-10 23:53-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/index.rst:7
+msgid "Welcome to App Volumes's documentation!"
+msgstr ""
+
+#: ../../source/index.rst:10
+msgid "Another simple header"
+msgstr ""
+
+#: ../../source/index.rst:14
+msgid "Here is some text explaining very complicated stuff.::"
+msgstr ""
+
+#: ../../source/index.rst:13
+msgid "print \"hello\" >> hello"
+msgstr ""
+
+#: ../../source/index.rst:17
+msgid "Guid"
+msgstr ""
+
+#: ../../source/index.rst:27
+msgid "Indices and tables"
+msgstr ""
+
+#: ../../source/index.rst:29
+msgid ":ref:`genindex`"
+msgstr ""
+
+#: ../../source/index.rst:30
+msgid ":ref:`modindex`"
+msgstr ""
+
+#: ../../source/index.rst:31
+msgid ":ref:`search`"
+msgstr ""
+
